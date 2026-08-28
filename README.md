@@ -28,12 +28,14 @@ Platforms where buyers and publishers transact guest post placements, link inser
 - [Adbassador](https://adbassador.com) - Vetted marketplace for guest posts, link insertions, banner ads, and press releases with detailed publisher metrics.
 - [Adsy](https://adsy.com) - Marketplace connecting publishers and buyers for sponsored posts.
 - [BackLinked](https://backlinked.com) - Managed link building service with a marketplace interface.
+- [BlogDrip](https://blogdrip.com) - Global guest post and link insertion marketplace with publishers in 60+ countries and self-service campaigns.
 - [Collaborator.pro](https://collaborator.pro) - International sponsored content platform with publisher traffic and authority data.
 - [Getfluence](https://getfluence.com) - Marketplace for sponsored articles on European and international publications.
 - [Linkhouse](https://linkhouse.net) - Content marketplace with 74,000+ publishers, strong European inventory.
 - [Publisuites](https://publisuites.com) - Spanish-language-heavy marketplace for sponsored posts, reviews, and social mentions.
 - [PRNEWS.IO](https://prnews.io) - Sponsored content and press release network with a news-site focus.
 - [WhitePress](https://whitepress.com) - Large European content marketplace with an extensive publisher database.
+  
 
 ## Outreach Tools
 
